@@ -2,7 +2,7 @@
 
 Local-first race analysis for Assetto Corsa Competizione.
 
-🔗 **Live app:** [paceboss.com](https://paceboss.com)
+**Live app:** [paceboss.com](https://paceboss.com)
 
 
 ## What it does
@@ -20,7 +20,8 @@ per driver per session.
 
 ## Why
 
-I wanted to understand and aggregrate race data and present it within a design system.
+I wanted to understand and aggregrate race data and present it within a design system specifically because
+Console ACC players are given no in-game tooling to "read their data".
 
 ## Stack
 
